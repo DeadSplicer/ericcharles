@@ -80,6 +80,10 @@
       padding-top: 0px;
       text-align: center;
     }
+    .video-box{
+      border-style: hidden;
+      text-align: center;
+    }
     #show_mobile_menu{
       border-style: none;
       text-align: center;
