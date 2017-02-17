@@ -211,3 +211,13 @@ body.lb-disable-scrolling {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
 }
+
+
+
+.lb-nav {
+   pointer-events: none;
+}
+
+.lb-prev, .lb-next {
+   pointer-events: auto;
+}
