@@ -19,6 +19,8 @@
     color: black;
     padding-top: 10px;
     padding-bottom: 5px;
+    margin-top: 0;
+    margin-bottom: 0PX;
   }
   h2{
     font-family: 'Josefin Sans', sans-serif;
@@ -30,6 +32,9 @@
     margin-left: auto;
     margin-right: auto;
     margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #6e5e5e;
   }
   h3{
     font-family: 'Josefin Sans', sans-serif;
@@ -40,6 +45,20 @@
     margin-left: auto;
     margin-right: auto;
     margin: auto;
+  }
+  h4{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    /*color: gray;*/
+    line-height: .3;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
   }
 
   strong{
@@ -87,6 +106,12 @@
       border-style: hidden;
       padding-top: 0px;
       text-align: center;
+      background-color: #cc0000;
+    }
+    .resume-box{
+      border-style: hidden;
+      padding-top: 0px;
+      text-align: center;
     }
     .video-box{
       border-style: hidden;
@@ -99,7 +124,8 @@
 
 
     .mobilebutton{
-      background-color: #a5a5a5;
+      /*background-color: #a5a5a5;*/
+      background-color: #cc0000;
       border: none;
       color: black;
       padding: 20px 5px;
@@ -133,7 +159,7 @@
       background-color: #000000
     }
     .button2{
-      background-color: #FFFFFF;
+
       border: none;
       color: black;
       padding: 0px 0px;
@@ -144,8 +170,9 @@
       cursor: pointer;
     }
     .button2:hover{
-      background-color: #FFFFFF;
+
       text-decoration: none;
+      /*color: #d60606;*/
       color: #d60606;
     }
 
@@ -185,7 +212,7 @@
     #mobilemenu{
       border-style: none;
       background-color: #e5e5e5;
-      padding: 10px;
+      padding: 0px;
     }
 
 
