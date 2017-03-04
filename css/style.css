@@ -10,6 +10,11 @@
   .col-sm-4{
     padding: 2px;
   }
+  .container{
+    /*margin-left: 0px;
+    margin-right: 0px;*/
+  }
+
 
 
   h1{
@@ -34,7 +39,7 @@
     margin: auto;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: #6e5e5e;
+    background-color: #292929;
   }
   h3{
     font-family: 'Josefin Sans', sans-serif;
@@ -88,6 +93,7 @@
     color: black;
 
   }
+
 
     .box-one{
       border-style: solid;
@@ -165,12 +171,12 @@
       padding: 0px 0px;
       text-align: center;
       text-decoration: none;
-      display:block;
+      display:inline-block;
       margin: 0px 0px;
       cursor: pointer;
     }
     .button2:hover{
-
+      
       text-decoration: none;
       /*color: #d60606;*/
       color: #d60606;
@@ -198,9 +204,10 @@
 
     .menu_button{
       font-family: 'Josefin Sans', sans-serif;
+      color: #898989;
       text-align: center;
       font-size: 20px;
-      background-color: #d2d2d2;
+      background-color: #292929;
       font-style: bold;
       padding-top: 6px;
       padding-bottom: 4px;
@@ -213,6 +220,11 @@
       border-style: none;
       background-color: #e5e5e5;
       padding: 0px;
+    }
+
+    .navbar-header{
+      background-color: #292929;
+      color: #898989;
     }
 
 
