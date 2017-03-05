@@ -176,7 +176,7 @@
       cursor: pointer;
     }
     .button2:hover{
-      
+
       text-decoration: none;
       /*color: #d60606;*/
       color: #d60606;
@@ -213,7 +213,7 @@
       padding-bottom: 4px;
     }
     .menu_button:hover{
-      background-color: #999999;
+      background-color: #292929;
     }
 
     #mobilemenu{
