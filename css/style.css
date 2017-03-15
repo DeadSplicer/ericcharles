@@ -172,6 +172,9 @@
       display:inline-block;
       margin: 1px 1px;
       cursor: pointer;
+      transition: all 0.5s;
+      -webkit-transition: all 0.5s;
+      -moz-transition: all 0.5s;
     }
     .button:hover{
       /*background-color: #d60606;*/
@@ -189,6 +192,9 @@
       display:inline-block;
       margin: 0px 0px;
       cursor: pointer;
+      transition: all 0.7s;
+      -webkit-transition: all 0.5s;
+      -moz-transition: all 0.5s;
     }
     .button2:hover{
 
